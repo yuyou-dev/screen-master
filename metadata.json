@@ -1,0 +1,5 @@
+{
+  "name": "CineScout - Director's Visualizer",
+  "description": "A professional cinematic visualization tool for directors and creators. Generates high-fidelity storyboards, analyzes reference assets, and assists in visual storytelling using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
